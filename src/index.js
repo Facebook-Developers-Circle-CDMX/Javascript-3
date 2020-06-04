@@ -2,12 +2,12 @@ const findDouble = function (number) {
     //aqui escribiras tu codigo
     var lid = []
     
-    for(number of arr){
+    for(num of number){
         
-        if(lid.indexOf(number) == -1){
-            lid.push(number)
+        if(lid.indexOf(num) == -1){
+            lid.push(num)
         }else{
-            return number
+            return num
         }
     }
     return null
