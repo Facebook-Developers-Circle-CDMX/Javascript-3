@@ -1,5 +1,12 @@
 const findDouble = function (number) {
-    //aqui escribiras tu codigo
+    let numExists = []
+    for(num of number){
+        if(numExists[num]){
+            return num
+        }
+        else
+            numExists[num] = true
+    }
 }; 
 
 module.exports = findDouble;
