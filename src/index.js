@@ -1,5 +1,9 @@
-const findDouble = function (number) {
-    //aqui escribiras tu codigo
-}; 
+const findDuplicates = function (nums) {
+  obj = {};
+  for (let num of nums) {
+    if (obj[num]) return num;
+    obj[num] = true;
+  }
+};
 
-module.exports = findDouble;
+module.exports = findDuplicates;
