@@ -4,7 +4,7 @@
 
   
 
-En este reto lo que debes hacer, es determinar si el número que le pasan a tu función, es primo o no lo es.
+En este reto lo que debes hacer, es determinar la primera dupla que salga.
 
   
 
