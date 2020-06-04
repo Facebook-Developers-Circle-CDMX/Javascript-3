@@ -43,3 +43,6 @@ Para empezar el reto, lo primero que debes hacer es:
   
 
 Al momento de terminar tu Pull request, se van a correr otra vez las pruebas en Github y si sale una palomita verde, significa que todo esta en orden y que eres un crack. :sunglasses:
+
+
+*NOTA: Debes dejar tu nombre completo y tu perfil de Instagram en tu Pullrequest*
